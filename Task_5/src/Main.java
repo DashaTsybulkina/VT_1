@@ -12,8 +12,8 @@ public class Main {
         }
         System.out.println("\nВозрастающая последовательность:");
         int[] seq = getLongestIncreasingSequence(array);
-        for (int i = 0; i < seq.length; i++) {
-            System.out.print(seq[i] + " ");
+        for (int j : seq) {
+            System.out.print(j + " ");
         }
         System.out.println();
         System.out.println("Можно удалить " + (array.length - seq.length));
@@ -21,8 +21,8 @@ public class Main {
 
     private static int[] getLongestIncreasingSequence(int[] array) {
         final int N = array.length;
-        int P[] = new int[N];
-        int M[] = new int[N + 1];
+        int[] P = new int[N];
+        int[] M = new int[N + 1];
 
         int L = 0;
         for (int i = 0; i < N; ++i) {
@@ -43,7 +43,7 @@ public class Main {
             if (newL > L)
                 L = newL;
         }
-        int S[] = new int[L];
+        int[] S = new int[L];
         int k = M[L];
         for (int i = L - 1; i >= 0; --i) {
             S[i] = array[k];
