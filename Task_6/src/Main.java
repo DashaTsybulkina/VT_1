@@ -17,7 +17,7 @@ public class Main {
 
     public static int[][] fillMatrix(int[] numbers){
         int[][] matrix = new int[numbers.length][numbers.length];
-        int temp = 0;
+        int temp;
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 temp = (i + j) % matrix.length;
@@ -29,9 +29,9 @@ public class Main {
 
     public static void printMatrix(int[][] matrix){
         System.out.println("Последовательность:");
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
-                System.out.print(matrix[i][j] +" ");
+        for (int[] ints : matrix) {
+            for (int anInt : ints) {
+                System.out.print(anInt + " ");
             }
             System.out.println();
         }
