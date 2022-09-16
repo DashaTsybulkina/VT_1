@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task4">
-      <change afterPath="$PROJECT_DIR$/Task_5/Task_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_5/src/Main.java" afterDir="false" />
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="correct task5">
+      <change afterPath="$PROJECT_DIR$/Task_6/Task_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_6/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,7 +32,7 @@
     "jdk.selected.JAVA_MODULE": "openjdk-18"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Task_1" />
@@ -61,20 +61,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Task_2" />
+      <module name="Task_6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663339871354</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task5">
+      <created>1663343070846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663343070846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="correct task5">
+      <created>1663343127737</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663343127737</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +148,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="task3" />
     <MESSAGE value="task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task4" />
+    <MESSAGE value="task5" />
+    <MESSAGE value="correct task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct task5" />
   </component>
 </project>
