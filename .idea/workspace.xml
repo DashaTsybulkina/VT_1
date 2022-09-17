@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="correct task6">
-      <change afterPath="$PROJECT_DIR$/Task_7/Task_7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7/src/Main.java" afterDir="false" />
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task7">
+      <change afterPath="$PROJECT_DIR$/Task_8/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,10 +31,10 @@
     "jdk.selected.JAVA_MODULE": "openjdk-18"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Task_3" />
+      <module name="Task_8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,11 +69,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663344234458</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="task7">
+      <created>1663403225090</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663403225090</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task7">
+      <created>1663403267761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663403267761</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +186,18 @@
     <MESSAGE value="correct task5" />
     <MESSAGE value="task6" />
     <MESSAGE value="correct task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct task6" />
+    <MESSAGE value="task7" />
+    <option name="LAST_COMMIT_MESSAGE" value="task7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Task_8/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
