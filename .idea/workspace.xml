@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Task_9:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task8">
-      <change afterPath="$PROJECT_DIR$/Task_9/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_9/src/model/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_9/src/model/Basket.java" afterDir="false" />
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task10(photo)">
+      <change afterPath="$PROJECT_DIR$/Task_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-18"
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -176,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663405607519</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="task10(photo)">
+      <created>1663408789706</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663408789706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +215,7 @@
     <MESSAGE value="correct task6" />
     <MESSAGE value="task7" />
     <MESSAGE value="task8" />
-    <option name="LAST_COMMIT_MESSAGE" value="task8" />
+    <MESSAGE value="task10(photo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task10(photo)" />
   </component>
 </project>
