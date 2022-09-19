@@ -2,11 +2,12 @@ package module;
 
 import java.util.Objects;
 
-public class Book {
+public class Book implements Comparable<Book> {
     private String title;
     private String author;
     private int price;
     private static int edition;
+    private String isbn;
 
     public Book(String title, String author, int price) {
         this.title = title;
@@ -53,5 +54,10 @@ public class Book {
     public Object clone() {
         Book clone = new Book(author, title, price);
         return clone;
+    }
+
+    @Override
+    public int compareTo(Book o) {
+        return isbn.compareTo(o.isbn);
     }
 }

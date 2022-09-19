@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task12">
-      <change afterPath="$PROJECT_DIR$/Task_12/src/module/ProgrammingBook.java" afterDir="false" />
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task13-14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_12/src/module/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12/src/module/Book.java" afterDir="false" />
     </list>
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663587836439</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task13-14">
+      <created>1663588765953</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663588765953</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +248,7 @@
     <MESSAGE value="task11(photo)" />
     <MESSAGE value="task11(jar)" />
     <MESSAGE value="task12" />
-    <option name="LAST_COMMIT_MESSAGE" value="task12" />
+    <MESSAGE value="task13-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="task13-14" />
   </component>
 </project>
