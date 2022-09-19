@@ -6,11 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task11(jar)">
-      <change afterPath="$PROJECT_DIR$/Task_12/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12/src/module/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task12">
+      <change afterPath="$PROJECT_DIR$/Task_12/src/module/ProgrammingBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_12/src/module/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12/src/module/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663409519904</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="task12">
+      <created>1663587836439</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663587836439</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +241,7 @@
     <MESSAGE value="task10(photo)" />
     <MESSAGE value="task11(photo)" />
     <MESSAGE value="task11(jar)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task11(jar)" />
+    <MESSAGE value="task12" />
+    <option name="LAST_COMMIT_MESSAGE" value="task12" />
   </component>
 </project>
