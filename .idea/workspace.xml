@@ -6,9 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task13-14">
+    <list default="true" id="f1e40647-1871-4050-bde4-83518e7aedf2" name="Changes" comment="task 14.2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12/src/sort/SortByAuthorAndName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12/src/sort/SortByAuthorAndNameAndPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12/src/sort/SortByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12/src/sort/SortByNameAndAuthor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_12/src/module/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12/src/module/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_12/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663588765953</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task 14.2">
+      <created>1663599843301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663599843301</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +261,7 @@
     <MESSAGE value="task11(jar)" />
     <MESSAGE value="task12" />
     <MESSAGE value="task13-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="task13-14" />
+    <MESSAGE value="task 14.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 14.2" />
   </component>
 </project>
